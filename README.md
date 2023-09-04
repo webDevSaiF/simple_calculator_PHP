@@ -1,3 +1,4 @@
+Live Preview Link --> https://simple-calculator-php--webdevsaif.repl.co/
 # Simple Calculator (PHP)
 
 Welcome to the Simple Calculator (PHP) repository! This project is intended to facilitate your learning journey with PHP by creating a basic calculator application. Explore the world of PHP while implementing fundamental arithmetic operations such as addition, subtraction, multiplication, and division. The application is built using the Bootstrap framework for enhanced styling.
